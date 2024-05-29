@@ -129,6 +129,7 @@ export default defineUserConfig({
       }
     },
 
+    navbarTitle: "京吹学报",
     // theme-level locales config
     locales: {
       /**
@@ -140,7 +141,8 @@ export default defineUserConfig({
         // navbar
         navbar: navbar.en,
         // sidebar
-        sidebar: sidebar.en
+        sidebar: sidebar.en,
+        navbarTitle: "京吹学报"
       },
 
       /**
@@ -151,6 +153,7 @@ export default defineUserConfig({
         navbar: navbar.zh,
         // sidebar
         sidebar: sidebar.zh,
+        navbarTitle: "Hibikilogy",
         // i18n
         ...i18n.zh
       }
