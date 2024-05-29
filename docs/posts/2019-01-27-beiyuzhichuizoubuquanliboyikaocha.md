@@ -1,7 +1,12 @@
 ---
-layout: post
+layout: Post
 title: 北宇治吹奏部权力博弈考察
+subtitle:
 author: 老仓唯
+date: 2019-01-27
+useHeaderImage: true
+headerImage: https://i.loli.net/2020/03/13/Kk83Nb1DUaYOi6j.png
+headerMask: rgba(40, 57, 101, .4)
 original: https://www.saraba1st.com/2b/forum.php?mod=viewthread&tid=1806922
 catalog: true
 tags:
@@ -13,6 +18,10 @@ tags:
     - 斋藤葵
     - 伞木希美
 ---
+
+原文由老仓唯发布于 2019 年 1 月 27 日
+
+<!-- more -->
 
 ## 前言
 
