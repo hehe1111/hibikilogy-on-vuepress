@@ -17,7 +17,7 @@ export default defineUserConfig({
         rel: "icon",
         type: "image/png",
         sizes: "16x16",
-        href: `/img/logo/favicon-16x16.png`
+        href: `/img/logo/hibikilogy-logo.png`
       }
     ],
     [
@@ -26,7 +26,7 @@ export default defineUserConfig({
         rel: "icon",
         type: "image/png",
         sizes: "32x32",
-        href: `/img/logo/favicon-32x32.png`
+        href: `/img/logo/hibikilogy-logo.png`
       }
     ],
     ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
@@ -48,13 +48,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "VuePress Theme Gungnir",
-      description: "A blog theme for VuePress"
+      title: "京吹学报",
+      description: "Hibikilogy"
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "VuePress Theme Gungnir",
-      description: "VuePress 博客主题"
+      title: "京吹学报",
+      description: "Hibikilogy"
     }
   },
 
@@ -67,26 +67,26 @@ export default defineUserConfig({
     repo: "Renovamen/vuepress-theme-gungnir",
     docsDir: "docs",
 
-    hitokoto: "https://v1.hitokoto.cn?c=i", // enable hitokoto (一言) or not?
+    // hitokoto: "https://v1.hitokoto.cn?c=i", // enable hitokoto (一言) or not?
 
     // personal information
     personalInfo: {
-      name: "Gungnir",
-      avatar: "/img/avatar.jpeg",
-      description: "A blog theme for VuePress",
+      name: "Hibikilogy",
+      avatar: "/img/logo/hibikilogy-logo.png",
+      description: "中国吹学院",
       sns: {
-        github: "Renovamen",
-        linkedin: "xiaohan-zou-55bba0160",
-        facebook: "renovamen.zou",
-        twitter: "renovamen_zxh",
-        zhihu: "chao-neng-gui-su",
-        email: "renovamenzxh@gmail.com",
-        rss: "/rss.xml",
+        github: "hibikilogy-on-vuepress",
+        // linkedin: "xiaohan-zou-55bba0160",
+        // facebook: "renovamen.zou",
+        // twitter: "renovamen_zxh",
+        // zhihu: "chao-neng-gui-su",
+        // email: "renovamenzxh@gmail.com",
+        rss: "/rss.xml"
         // customized sns
-        bilibili: {
-          icon: "ri-bilibili-line",
-          link: "https://www.bilibili.com/"
-        }
+        // bilibili: {
+        //   icon: "ri-bilibili-line",
+        //   link: "https://www.bilibili.com/"
+        // }
       }
     },
 

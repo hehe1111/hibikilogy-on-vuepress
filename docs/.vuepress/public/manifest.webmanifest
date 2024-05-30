@@ -1,24 +1,24 @@
 {
-  "name": "Gungnir Theme",
-  "short_name": "Gungnir",
-  "description": "A blog theme for VuePress.",
+  "name": "京吹学报",
+  "short_name": "Hibikilogy",
+  "description": "Hibikilogy",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#2d3746",
   "theme_color": "#377bb5",
   "icons": [
     {
-      "src": "/img/logo/android-chrome-144x144.png",
+      "src": "/img/logo/hibikilogy-logo.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/img/logo/android-chrome-192x192.png",
+      "src": "/img/logo/hibikilogy-logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/img/logo/android-chrome-512x512.png",
+      "src": "/img/logo/hibikilogy-logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
