@@ -129,6 +129,8 @@ export default defineUserConfig({
       }
     },
 
+    editLink: false,
+
     navbarTitle: "京吹学报",
     // theme-level locales config
     locales: {
